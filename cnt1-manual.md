@@ -9,7 +9,7 @@ CryptoNote Tokens implemented in Cutcoin is the extension of CryptoNote protocol
 
 Tokens have unique names and corresponding unique IDs. The Cutcoin ID is '0' (zero). Each transaction output in the system has its own token ID which is not encrypted and visible on the block explorer. When a transaction with tokens has been generated, anyone can notice that the tokens with a specific ID are in circulation, but the sender and receiver are not known because of the one-time addresses protocol. Transaction amounts also remain hidden due to Ring Confidential Transaction (RCT), so overall privacy is not worse than that of the Cutcoin.
 
-A CNT1 token can be one of the two possible types: (1) with the visible supply (2) with the hidden supply. 
+A CNT1 token can be one of the two possible types: (1) with the visible supply (2) with the hidden supply.
 For the hidden supply kind of tokens, the total supply is hidden for the public and only the token creator knows the exact supply of the specific token.
 
 ## User operations
